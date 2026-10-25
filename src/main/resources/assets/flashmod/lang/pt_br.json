@@ -1,0 +1,29 @@
+{
+  "key.categories.flashmod": "Flash Mod",
+  "key.flashmod.toggle": "Ligar/desligar Força da Velocidade",
+  "key.flashmod.phase": "Ligar/desligar atravessar paredes",
+  "key.flashmod.up": "Aumentar nível de velocidade",
+  "key.flashmod.down": "Diminuir nível de velocidade",
+  "key.flashmod.color": "Menu da cor do raio",
+
+  "hud.flashmod.speed": "Velocidade %s/%s",
+  "hud.flashmod.phase": "FASE",
+  "hud.flashmod.water": "Água",
+  "hud.flashmod.sparks": "Faíscas",
+
+  "msg.flashmod.level": "Nível de velocidade: %s/%s",
+  "msg.flashmod.phase": "Atravessar paredes: %s",
+  "msg.flashmod.inside": "Saia de dentro dos blocos antes de desligar!",
+
+  "screen.flashmod.title": "Cor do Raio",
+  "gui.flashmod.rainbow": "Arco-íris",
+
+  "color.flashmod.yellow": "Amarelo Clássico",
+  "color.flashmod.red": "Vermelho",
+  "color.flashmod.blue": "Azul",
+  "color.flashmod.purple": "Roxo",
+  "color.flashmod.green": "Verde",
+  "color.flashmod.white": "Branco",
+  "color.flashmod.pink": "Rosa",
+  "color.flashmod.orange": "Laranja"
+}

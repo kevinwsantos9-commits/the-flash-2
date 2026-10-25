@@ -1,0 +1,29 @@
+{
+  "key.categories.flashmod": "Flash Mod",
+  "key.flashmod.toggle": "Toggle Speed Force",
+  "key.flashmod.phase": "Toggle phasing through walls",
+  "key.flashmod.up": "Speed level up",
+  "key.flashmod.down": "Speed level down",
+  "key.flashmod.color": "Lightning color menu",
+
+  "hud.flashmod.speed": "Speed %s/%s",
+  "hud.flashmod.phase": "PHASE",
+  "hud.flashmod.water": "Water",
+  "hud.flashmod.sparks": "Sparks",
+
+  "msg.flashmod.level": "Speed level: %s/%s",
+  "msg.flashmod.phase": "Phasing: %s",
+  "msg.flashmod.inside": "Get out of the blocks before turning it off!",
+
+  "screen.flashmod.title": "Lightning Color",
+  "gui.flashmod.rainbow": "Rainbow",
+
+  "color.flashmod.yellow": "Classic Yellow",
+  "color.flashmod.red": "Red",
+  "color.flashmod.blue": "Blue",
+  "color.flashmod.purple": "Purple",
+  "color.flashmod.green": "Green",
+  "color.flashmod.white": "White",
+  "color.flashmod.pink": "Pink",
+  "color.flashmod.orange": "Orange"
+}

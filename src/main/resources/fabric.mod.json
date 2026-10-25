@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "flashmod",
+  "version": "${version}",
+  "name": "Flash Mod",
+  "description": "Speed Force: 20 niveis de velocidade, raios de verdade, andar na agua, atravessar paredes e seletor de cor do raio.",
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "com.flashmod.FlashMod" ],
+    "client": [ "com.flashmod.client.FlashModClient" ]
+  },
+  "mixins": [
+    "flashmod.mixins.json",
+    { "config": "flashmod.client.mixins.json", "environment": "client" }
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
